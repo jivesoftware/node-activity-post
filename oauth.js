@@ -1,3 +1,5 @@
+// Owner: https://github.com/ciaranj/node-oauth
+
 var crypto= require('crypto'),
     sha1= require('./sha1'),
     http= require('http'),
