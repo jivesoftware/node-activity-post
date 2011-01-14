@@ -1,0 +1,8 @@
+Usage:
+
+Enter the Jive instance id, application id, user id, consumer key and secret in config.js
+
+Install node (http://nodejs.org/)
+
+node ./post.js activity-simple.js
+
